@@ -1,0 +1,6 @@
+@TeleRehab.API_HostAddress = http://localhost:5156
+
+GET {{TeleRehab.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

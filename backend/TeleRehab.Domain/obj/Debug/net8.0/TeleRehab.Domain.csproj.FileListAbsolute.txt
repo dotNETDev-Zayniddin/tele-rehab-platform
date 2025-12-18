@@ -1,0 +1,12 @@
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\bin\Debug\net8.0\TeleRehab.Domain.deps.json
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\bin\Debug\net8.0\TeleRehab.Domain.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\bin\Debug\net8.0\TeleRehab.Domain.pdb
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.AssemblyInfoInputs.cache
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.AssemblyInfo.cs
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.sourcelink.json
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\refint\TeleRehab.Domain.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\TeleRehab.Domain.pdb
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Domain\obj\Debug\net8.0\ref\TeleRehab.Domain.dll

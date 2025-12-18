@@ -1,0 +1,16 @@
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\bin\Debug\net8.0\TeleRehab.Application.deps.json
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\bin\Debug\net8.0\TeleRehab.Application.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\bin\Debug\net8.0\TeleRehab.Application.pdb
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\bin\Debug\net8.0\TeleRehab.Domain.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\bin\Debug\net8.0\TeleRehab.Domain.pdb
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.csproj.AssemblyReference.cache
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.AssemblyInfoInputs.cache
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.AssemblyInfo.cs
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.csproj.CoreCompileInputs.cache
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.sourcelink.json
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleReha.B79150B0.Up2Date
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\refint\TeleRehab.Application.dll
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\TeleRehab.Application.pdb
+C:\Users\Zayniddin\Desktop\tele-rehab-platform\backend\TeleRehab.Application\obj\Debug\net8.0\ref\TeleRehab.Application.dll
